@@ -12,7 +12,8 @@
     "require": {},
     "autoload":{
 	"psr-4":{
-            "adapter\\":"src/adapter"
+            "adapter\\":"src/adapter",
+            "builder\\":"src/builder"
         }
     }
 
