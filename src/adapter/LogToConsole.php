@@ -12,7 +12,7 @@ namespace adapter;
 class LogToConsole {
     private $_errorObject;
 
-    public function __construct($errorObject) {
+    public function __construct(ErrorObject $errorObject) {
         $this->_errorObject = $errorObject;
     }
 
