@@ -1,0 +1,13 @@
+{
+    "name": "zzc/design-patterns",
+    "description": "design patterns",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zhouzhichao",
+            "email": "zzc123@foxmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
