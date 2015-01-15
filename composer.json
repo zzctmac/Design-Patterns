@@ -13,8 +13,10 @@
     "autoload":{
 	"psr-4":{
             "adapter\\":"src/adapter",
-            "builder\\":"src/builder"
-        }
+            "builder\\":"src/builder",
+            "decorator\\":"src/decorator"
+
+    }
     }
 
 }
