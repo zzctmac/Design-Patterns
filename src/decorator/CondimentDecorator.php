@@ -9,11 +9,15 @@
 namespace decorator;
 
 
-class CondimentDecorator extends Coffee{
+class CondimentDecorator extends Beverage{
     public $_beverage;
 
     public function __construct(Beverage $beverage){
         $this->_beverage = $beverage;
     }
 
-} 
+    public function cost()
+    {
+        return $this->_beverage->cost();
+    }
+}
