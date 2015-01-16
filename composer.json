@@ -16,7 +16,8 @@
             "builder\\":"src/builder",
             "decorator\\":"src/decorator",
             "delegate\\":"src/delegate",
-            "facade\\":"src/facade"
+            "facade\\":"src/facade",
+            "factory\\":"src/factory"
         }
     }
 
