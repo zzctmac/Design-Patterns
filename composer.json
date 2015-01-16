@@ -17,7 +17,8 @@
             "decorator\\":"src/decorator",
             "delegate\\":"src/delegate",
             "facade\\":"src/facade",
-            "factory\\":"src/factory"
+            "factory\\":"src/factory",
+            "interpreter\\":"src/interpreter"
         }
     }
 
