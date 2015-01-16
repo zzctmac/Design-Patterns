@@ -19,7 +19,8 @@
             "facade\\":"src/facade",
             "factory\\":"src/factory",
             "interpreter\\":"src/interpreter",
-            "mediator\\":"src/mediator"
+            "mediator\\":"src/mediator",
+            "observer\\":"src/observer"
         }
     }
 
