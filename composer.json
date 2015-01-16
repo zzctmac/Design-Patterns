@@ -15,9 +15,9 @@
             "adapter\\":"src/adapter",
             "builder\\":"src/builder",
             "decorator\\":"src/decorator",
-            "delegate\\":"src/delegate"
-
-    }
+            "delegate\\":"src/delegate",
+            "facade\\":"src/facade"
+        }
     }
 
 }
