@@ -20,7 +20,8 @@
             "factory\\":"src/factory",
             "interpreter\\":"src/interpreter",
             "mediator\\":"src/mediator",
-            "observer\\":"src/observer"
+            "observer\\":"src/observer",
+            "proxy\\":"src/proxy"
         }
     }
 
