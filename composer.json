@@ -18,7 +18,8 @@
             "delegate\\":"src/delegate",
             "facade\\":"src/facade",
             "factory\\":"src/factory",
-            "interpreter\\":"src/interpreter"
+            "interpreter\\":"src/interpreter",
+            "mediator\\":"src/mediator"
         }
     }
 
