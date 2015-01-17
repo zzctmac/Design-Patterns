@@ -21,7 +21,8 @@
             "interpreter\\":"src/interpreter",
             "mediator\\":"src/mediator",
             "observer\\":"src/observer",
-            "proxy\\":"src/proxy"
+            "proxy\\":"src/proxy",
+            "single\\":"src/single"
         }
     }
 
