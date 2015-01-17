@@ -22,7 +22,8 @@
             "mediator\\":"src/mediator",
             "observer\\":"src/observer",
             "proxy\\":"src/proxy",
-            "single\\":"src/single"
+            "single\\":"src/single",
+            "strategy\\":"src/strategy"
         }
     }
 
