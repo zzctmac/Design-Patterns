@@ -24,7 +24,8 @@
             "proxy\\":"src/proxy",
             "single\\":"src/single",
             "strategy\\":"src/strategy",
-            "template\\":"src/template"
+            "template\\":"src/template",
+            "visitor\\":"src/visitor"
         }
     }
 
