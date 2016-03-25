@@ -8,6 +8,7 @@
             "email": "zzc123@foxmail.com"
         }
     ],
+  "version": "1.0.0",
     "minimum-stability": "stable",
     "require": {},
     "autoload":{
